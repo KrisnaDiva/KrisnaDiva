@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krisna Diva</h1>
-<h3 align="center">A Passionate Laravel Developer From Indonesia</h3>
+<h3 align="center">A Passionate Developer From Indonesia</h3>
 
 - 🌱 I’m currently learning **More about Android Develpoment**
 
